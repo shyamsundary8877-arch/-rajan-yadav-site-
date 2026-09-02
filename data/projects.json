@@ -1,0 +1,32 @@
+[
+  {
+    "id": "app-1",
+    "title": "Expense Tracker App",
+    "category": "App",
+    "tech": ["Flutter", "Firebase"],
+    "desc": "Track income/expenses with monthly summary.",
+    "longDesc": "An expense tracker app with categories, charts, and cloud sync. Add budgets and view reports.",
+    "demo": "",
+    "github": ""
+  },
+  {
+    "id": "app-2",
+    "title": "Notes App",
+    "category": "App",
+    "tech": ["Android", "SQLite"],
+    "desc": "Offline notes with search and tags.",
+    "longDesc": "Create notes, add tags, search instantly, and keep everything offline using local database.",
+    "demo": "",
+    "github": ""
+  },
+  {
+    "id": "app-3",
+    "title": "Attendance App",
+    "category": "App",
+    "tech": ["React Native"],
+    "desc": "Simple attendance marking for classes.",
+    "longDesc": "Mark attendance daily, export summary, and manage student lists in a clean interface.",
+    "demo": "",
+    "github": ""
+  }
+]
